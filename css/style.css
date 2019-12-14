@@ -235,7 +235,7 @@ footer p {
 	
 	.about {
 		padding:100px 0;
-		background:linear-gradient(#ffffff,#F0E5DE); 
+		background:linear-gradient(#ffffff,rgb(196, 196, 196)); 
 	}
 	
 	.about img {
@@ -321,7 +321,7 @@ footer p {
 	
 	.about {
 		padding:100px 0;
-		background:linear-gradient(#ffffff,#F0E5DE); 
+		background:linear-gradient(#ffffff,rgb(196, 196, 196)); 
 	}
 	
 	.about img {
